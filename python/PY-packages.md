@@ -8,6 +8,7 @@ pip install -e .
 python -m twine upload dist/*
 cd ../video-recommender/
 git init
+
 ```
 
 
